@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stripe-submenus-landingPage/static/css/main.3c603d20.css",
+    "main.js": "/stripe-submenus-landingPage/static/js/main.a315c84c.js",
+    "static/media/phone.svg": "/stripe-submenus-landingPage/static/media/phone.ae907e63595a71e5b0f6944e2b4a5bc2.svg",
+    "static/media/logo.svg": "/stripe-submenus-landingPage/static/media/logo.4658afbd4f1dae58190cd8b66107d42f.svg",
+    "static/media/hero.svg": "/stripe-submenus-landingPage/static/media/hero.1382a5016cab449baadc.svg",
+    "index.html": "/stripe-submenus-landingPage/index.html",
+    "main.3c603d20.css.map": "/stripe-submenus-landingPage/static/css/main.3c603d20.css.map",
+    "main.a315c84c.js.map": "/stripe-submenus-landingPage/static/js/main.a315c84c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c603d20.css",
+    "static/js/main.a315c84c.js"
+  ]
+}
